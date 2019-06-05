@@ -1,0 +1,6 @@
+name = "frontier_filter"
+type = "javascript"
+zone_id = redacted
+private = false
+account_id = redacted
+route = "dwdtest-frontier.openhtc.io/*"
